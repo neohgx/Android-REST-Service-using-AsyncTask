@@ -1,19 +1,8 @@
-# **Android Volley Framework Ejemplo**
-
-Basado en el tutorial:
-
-[Volley: Easy, Fast Networking for Android - Example](http://www.kpbird.com/2013/05/volley-easy-fast-networking-for-android.html)
+# **Android – Calling REST Service using AsyncTask**
 
 
+Basado en los tutoriales:
 
+[Android – Calling REST Service using AsyncTask](http://appfulcrum.com/2010/08/20/android-how-to-call-rest-service-using-asynctask/)
 
-**Compilar volley framework**
-
-```
-$ git clone https://android.googlesource.com/platform/frameworks/volley
-$ cd volley
-$ android update project -p .
-$ ant jar
-```
-
-Copiar bin/volley.jar en libs/
+[Android AsyncTask ListView – JSON](http://www.javacodegeeks.com/2013/06/android-asynctask-listview-json.html)
